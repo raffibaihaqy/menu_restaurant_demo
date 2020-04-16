@@ -1,0 +1,102 @@
+{
+    "menu": [
+        {
+            "kategori": "makan siang",
+            "nama": "Big Breakfast",
+            "deskripsi": "Perpaduan English Muffin panggang, sosis ayam gurih dan scrambled egg.",
+            "harga": 40000,
+            "gambar": "big-breakfast.png"
+        },
+        {
+            "kategori": "makan siang",
+            "nama": "Breakfast Wrap",
+            "deskripsi": "Paduan daging ayam asap, scrambled egg, dan keju gurih tortilla yang lembut.",
+            "harga": 40000,
+            "gambar": "breakfast-wrap.png"
+        },
+        {
+            "kategori": "sarapan pagi",
+            "nama": "Bubur Ayam McD",
+            "deskripsi": "Bubur ayam klasik disajikan dengan seledri dan bawang goreng renyah.",
+            "harga": 24000,
+            "gambar": "bubur-mcd.png"
+        },
+        {
+            "kategori": "sarapan pagi",
+            "nama": "Chicken Muffin",
+            "deskripsi": "English muffin saus mayonais daging ayam olahan digoreng dengan sempurna.",
+            "harga": 49500,
+            "gambar": "chicken-muffin.png"
+        },
+        {
+            "kategori": "sarapan pagi",
+            "nama": "Chicken Muffin Egg",
+            "deskripsi": "Muffin hangat dilapisi dengan saus mayonais, daging ayam olahan, telur, dan keju.",
+            "harga": 43000,
+            "gambar": "chicken-muffin-egg.png"
+        },
+        {
+            "kategori": "sarapan pagi",
+            "nama": "Egg McMuffin",
+            "deskripsi": "English muffin disajikan dengan daging ayam asap, telur, dan keju bernutrisi.",
+            "harga": 49500,
+            "gambar": "egg-mcmuffin.png"
+        },
+        {
+            "kategori": "sarapan pagi",
+            "nama": "Egg and Cheese Muffin",
+            "deskripsi": "Scrambled egg dan keju gurih dalam setangkup English Muffin hangat.",
+            "harga": 49500,
+            "gambar": "egg-cheese.png"
+        },
+        {
+            "kategori": "dinner",
+            "nama": "Hashbrown",
+            "deskripsi": "Potongan kentang gurih yang digoreng keemasan. tersedia jam 5-11 pagi.",
+            "harga": 24000,
+            "gambar": "hasbrown.png"
+        },
+        {
+            "kategori": "dinner",
+            "nama": "Hotcakes 2 pcs",
+            "deskripsi": "2 Panekuk lembut dan hangat berlumur sirup maple dan mentega gurih.",
+            "harga": 24000,
+            "gambar": "hotcakes-2.png"
+        },
+        {
+            "kategori": "dinner",
+            "nama": "Hotcakes 3 pcs",
+            "deskripsi": "3 Panekuk lembut dan hangat berlumur sirup maple dan mentega gurih.",
+            "harga": 40000,
+            "gambar": "hotcakes-3.png"
+        },
+        {
+            "kategori": "sarapan pagi",
+            "nama": "Nasi Uduk Ayam Suwir",
+            "deskripsi": "Nasi uduk gurih dengan topping lengkap dengan suwiran ayam goreng.",
+            "harga": 24000,
+            "gambar": "nasi-uduk-mcd.png"
+        },
+	    {
+            "kategori": "sarapan pagi",
+            "nama": "Sausage McMuffin",
+            "deskripsi": "English muffin hangat dengan sosis ayam gurih dan selembar keju.",
+            "harga": 49500,
+            "gambar": "sausage-mcmuffin.png"
+        },
+	    {
+            "kategori": "makan siang",
+            "nama": "Sausage McMuffin Egg",
+            "deskripsi": "English muffin, sosis ayam khas McDonald's, telur, dan selembar keju bernutrisi.",
+            "harga": 48000,
+            "gambar": "sausage-mcmuffin-egg.png"
+        },
+	    {
+            "kategori": "makan siang",
+            "nama": "Sausage Wrap",
+            "deskripsi": "Perpaduan sosis ayam, scrambled egg, dan keju gurih dalam balutan tortilla.",
+            "harga": 43000,
+            "gambar": "sausage-wrap.png"
+        }
+    ]
+}
