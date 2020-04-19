@@ -1,3 +1,3 @@
-$.getJSON("https://mcdonalds.co.id/menu", function(data){
+$.getJSON('data/sarapan-pagi.json', function(data){
     console.log(data);
 });
